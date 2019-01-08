@@ -1,0 +1,22 @@
+html {
+  font-family: Georgia, serif;
+  color: #fff;
+}
+
+.blue-background {
+  background-color: rgba(73, 85, 98, 1);
+}
+
+.btn {
+  color: #fff;
+  background-color: rgba(73, 85, 98, 1);
+  border: 3px solid #97a49b;
+}
+
+.btn:hover {
+  background-color: #fff;
+}
+
+.btn-link {
+  text-decoration: none;
+}
